@@ -11,10 +11,10 @@ Amazon Kindleで発売中の **「OpenAI 3種の神器」** 用のページで�
 
 ### 神器その① Whisper
 Whisperで文字起こし 基本版<br>
-https://huggingface.co/spaces/prodia/fast-stable-diffusion
+https://huggingface.co/spaces/nekoniii3/Whisper_basic
 
 Whisperで文字起こし 応用版（YouTube文字起こし）<br>
-https://huggingface.co/spaces/prodia/fast-stable-diffusion
+
 
 ### 神器その③ DALL·E3
 

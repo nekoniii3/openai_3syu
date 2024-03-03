@@ -285,7 +285,14 @@ footer {
   }
 }
 
-.icon {
+/* .icon {
   width: 60px;
   margin-top: 0px;
+} */
+
+.icon {
+  width: 10%;
+  border-radius:50%;
+  /* padding: 5px; */
+  border: 7px double rgb(243, 109, 19);
 }

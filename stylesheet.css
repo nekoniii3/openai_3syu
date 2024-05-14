@@ -218,6 +218,10 @@ footer {
   clear: left;
 }
 
+body.openai_entry {
+  margin-left: 30px;
+}
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
